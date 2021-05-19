@@ -165,7 +165,7 @@ def DeleteStudent():
 while True:
     Main()
     
-    choice = input("Please Enter a Number:")
+    choice = input("Please Enter a Letter:")
     if choice == 'a':
         AddStudent()
     elif choice == 'b':
